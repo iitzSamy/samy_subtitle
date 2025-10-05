@@ -14,7 +14,7 @@ exports('Subtitle', Subtitle)
 CreateThread(function()
 	Wait(1000)
 	exports.samy_subtitles:Subtitle(
-		'Voz Interna', -- Name
+		'Inner Voice', -- Name
 		'#f7b257', -- Name Color
 		'Estoy empezando a tener frio...', -- Subtitle
 		5000 -- Screen Time
@@ -24,5 +24,5 @@ end)
 
 --[[
 Wait(8000)
-exports.samy_subtitles:Subtitle( 'Voz Interna', '#f7b257', 'Esto deberia de ser una prueba?', 5000)
+exports.samy_subtitles:Subtitle( 'Inner Voice', '#f7b257', 'Should this be a test?', 5000)
 ]]--
