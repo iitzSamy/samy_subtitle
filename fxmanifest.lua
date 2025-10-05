@@ -1,6 +1,6 @@
 fx_version 'adamant'
 game 'gta5'
-description 'Samy_Narrator'
+description 'Samy_Subtitles'
 version '1.0.0'
 
 lua54 'yes'
